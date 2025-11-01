@@ -74,7 +74,9 @@ Durante o desenvolvimento, foi possível aplicar conceitos de:
 
 **Giulia Acsa dos Santos Muniz**
 Estudante do curso técnico em Desenvolvimento de Sistemas — ETEC de Bragança Paulista
-📫 LinkedIn: www.linkedin.com/in/giulia-acsa-dos-santos-muniz-b5bb13267
+
+📫 LinkedIn: 
+www.linkedin.com/in/giulia-acsa-dos-santos-muniz-b5bb13267
 
 ## ⚙️ Observação
 
