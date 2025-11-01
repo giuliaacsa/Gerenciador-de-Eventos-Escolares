@@ -1,7 +1,7 @@
 # 🎓 Gerenciador de Eventos Escolares
 
 Sistema web desenvolvido para auxiliar instituições de ensino na **organização, divulgação e inscrição de eventos escolares**.  
-O projeto foi criado como parte do curso técnico em Desenvolvimento de Sistemas da ETEC de Bragança Paulista, com foco em praticar conceitos de **desenvolvimento full stack**.
+O projeto foi criado como parte do curso técnico em Desenvolvimento de Sistemas da ETEC de Bragança Paulista, com as matérias Banco de Dados e Programação Web, com foco em praticar conceitos de **desenvolvimento full stack**.
 
 ---
 
