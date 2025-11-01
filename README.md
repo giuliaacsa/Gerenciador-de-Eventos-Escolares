@@ -38,7 +38,7 @@ O arquivo de banco de dados (`bd_eventosescolares.sql`) está localizado na past
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/Gerenciador-de-Eventos-Escolares.git
+   git clone https://github.com/giuliaacsa/Gerenciador-de-Eventos-Escolares.git
 
 2. Acesse a pasta do projeto:
    ```bash
@@ -50,7 +50,7 @@ O arquivo de banco de dados (`bd_eventosescolares.sql`) está localizado na past
 
 4. Configure a conexão com o banco de dados no arquivo de configuração (ex: config.php ou similar).
 
-5. Importe o banco de dados (banco_de_dados.sql) no phpMyAdmin.
+5. Importe o banco de dados (bd_eventosescolares.sql) no phpMyAdmin.
 
 6. Inicie o servidor local com o XAMPP (ou similar) e acesse:
     ```bash
@@ -73,6 +73,7 @@ Durante o desenvolvimento, foi possível aplicar conceitos de:
 ## 👩‍💻 Autora
 
 **Giulia Acsa dos Santos Muniz**
+
 Estudante do curso técnico em Desenvolvimento de Sistemas — ETEC de Bragança Paulista
 
 📫 LinkedIn: 
