@@ -21,7 +21,8 @@ O projeto foi criado como parte do curso técnico em Desenvolvimento de Sistemas
 - **MySQL** — Banco de dados relacional  
 - **HTML5** — Estrutura das páginas  
 - **CSS3** — Estilização e responsividade  
-- **JavaScript** — Interatividade e validações  
+- **JavaScript** — Interatividade e validações
+- **Chart.js** - Gráficos 
 - **Bootstrap** — Layout responsivo e componentes visuais  
 - **Composer** — Gerenciador de dependências (utilizado para bibliotecas de PDF)
 
